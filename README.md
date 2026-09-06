@@ -74,8 +74,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanu-03&show_icons=true&theme=default&hide_border=true&title_color=b4232a&icon_color=b4232a" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu-03&layout=compact&hide_border=true&title_color=b4232a" alt="top langs"/>
+  https://github-readme-stats.vercel.app/api?username=dhanu-03&show_icons=true&hide_border=true&title_color=b4232a&icon_color=b4232a&cache_seconds=1800
+  https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu-03&layout=compact&hide_border=true&title_color=b4232a&langs_count=8&cache_seconds=1800
 </p>
 
 <p align="center">
