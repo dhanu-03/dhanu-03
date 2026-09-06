@@ -73,13 +73,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanu-03&show_icons=true&hide_border=true&title_color=b4232a&icon_color=b4232a&cache_seconds=1800" alt="st//github-readme-stats.vercel.app/api/top-langs/?username=dhanu-03&layout=compact&hide_border=true&title_color=b4232a&lang=1800
-</p>
+https://github-readme-stats.vercel.app/api?username=dhanu-03&show_icons=true&hide_border=true&title_color=b4232a&icon_color=b4232a
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanu-03&hide_border=true&stroke=b4232a&ring=b4232a2a&currStreakLabel=b4232a
-</p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu-03&layout=compact&hide_border=true&title_color=b4232a&langs_count=8
+
+https://github-readme-streak-stats.herokuapp.com/?user=dhanu-03&hide_border=true&stroke=b4232a&ring=b4232a&fire=b4232a&currStreakLabel=b4232a
 
 ---
 
