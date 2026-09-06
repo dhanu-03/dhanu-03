@@ -79,6 +79,10 @@
 </p>
 
 <p align="center">
+  https://github-readme-streak-stats.herokuapp.com/?user=dhanu-03&hide_border=true&stroke=b4232a&ring=b4232a&fire=b4232a&currStreakLabel=b4232a
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanu-03&hide_border=true&stroke=b4232a&ring=b4232a&fire=b4232a&currStreakLabel=b4232a" alt="streak"/>
 </p>
 
